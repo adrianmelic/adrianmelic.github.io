@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adrian Melic - Consultor de Inteligencia Artificial y Docente
+title: Adrián Melic - Consultor de Inteligencia Artificial y Docente
 email: info@adrianmelic.com
-description: Consultor de Inteligencia Artificial y Docente. Construyendo productos impulsados por IA. Ayudo a empresas y estudiantes a surfear esta ola.
+description: Construyendo productos impulsados por IA. Ayudo a empresas y estudiantes a surfear esta ola.
 baseurl: ""
 url: "https://adrianmelic.com"
 twitter_username: adrianmelic
@@ -33,6 +33,10 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+
+github:
+  is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

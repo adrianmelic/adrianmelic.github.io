@@ -16,7 +16,7 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 [![Linkedin: adrianmelic](https://img.shields.io/badge/-Adrián%20Melic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmelic/)](https://www.linkedin.com/in/adrianmelic/)
 
 - 🚀 Tengo **más de 5 años de experiencia** en **Desarrollo de Software**
-- 💡 Mis intereses son **IA**, **Reinforcement Learning**, **Procesamiento de Lenguaje Natural**, **Videojegos**, **Finanzas**, **Energía Limpia** y **Exploración Espacial**
+- 💡 Mis intereses son **IA**, **LLMs**, **Reinforcement Learning**, **Videojegos**, **Finanzas**, **Energía Limpia** y **Exploración Espacial**
 - 🎓 Tengo un [Máster oficial en Inteligencia Artificial (UNIR)](https://www.unir.net/ingenieria/master-inteligencia-artificial/) y un [Grado en Administración y Dirección de Empresas (UNED)](https://portal.uned.es/pls/portal/url/page/UNED_MAIN/GRADOS/6502/2023)
 - 🦾 Soy "Competitions Expert" en Kaggle con dos medallas en equipo [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/adrianmelic)
 - 🧠 +50 cursos en línea completados, la mayoría de ellos certificados [![Coursera](https://img.shields.io/static/v1?style=flat&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=&link=https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590)](https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590) ![Udacity](https://img.shields.io/static/v1?style=flat&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=) [![DataCamp](https://img.shields.io/static/v1?style=flat&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=&link=https://app.datacamp.com/profile/adrianmelic)](https://app.datacamp.com/profile/adrianmelic) [![Codecademy](https://img.shields.io/static/v1?style=flat&message=Codecademy&color=1F4056&logo=Codecademy&logoColor=FFFFFF&label=&link=https://www.codecademy.com/profiles/adrianmelic)](https://www.codecademy.com/profiles/adrianmelic)
@@ -41,8 +41,6 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&link=https://github.com/adrianmelic)
 
 ![Ubuntu](https://img.shields.io/static/v1?style=flat&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
-![Google Colab](https://img.shields.io/static/v1?style=flat&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=&link=https://github.com/adrianmelic)
-![ClickUp](https://img.shields.io/static/v1?style=flat&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Google Ads](https://img.shields.io/static/v1?style=flat&message=Google+Ads&color=4285F4&logo=Google+Ads&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 
 

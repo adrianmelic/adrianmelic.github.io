@@ -15,18 +15,19 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 [![X: adrianmelic](https://img.shields.io/badge/-@adrianmelic-000000?style=flat&logo=X&logoColor=white)](https://x.com/adrianmelic)
 [![Linkedin: adrianmelic](https://img.shields.io/badge/-Adrián%20Melic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmelic/)](https://www.linkedin.com/in/adrianmelic/)
 
-- 🚀 Tengo **más de 5 años de experiencia** en **Desarrollo de Software**
+- 🚀 Tengo **más de 6 años de experiencia** en **Desarrollo de Software**
 - 💡 Mis intereses son **IA**, **LLMs**, **Reinforcement Learning**, **Videojegos**, **Finanzas**, **Energía Limpia** y **Exploración Espacial**
 - 🎓 Tengo un [Máster oficial en Inteligencia Artificial (UNIR)](https://www.unir.net/ingenieria/master-inteligencia-artificial/) y un [Grado en Administración y Dirección de Empresas (UNED)](https://portal.uned.es/pls/portal/url/page/UNED_MAIN/GRADOS/6502/2023)
-- 🦾 Soy "Competitions Expert" en Kaggle con dos medallas en equipo [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/adrianmelic)
+- 🦾 Creo e imparto 2 cursos: Uno de IA Generativa y otro de digitalización.
+- 🏅 Soy "Competitions Expert" en Kaggle con dos medallas en equipo [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/adrianmelic)
 - 🧠 +50 cursos en línea completados, la mayoría de ellos certificados [![Coursera](https://img.shields.io/static/v1?style=flat&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=&link=https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590)](https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590) ![Udacity](https://img.shields.io/static/v1?style=flat&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=) [![DataCamp](https://img.shields.io/static/v1?style=flat&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=&link=https://app.datacamp.com/profile/adrianmelic)](https://app.datacamp.com/profile/adrianmelic) [![Codecademy](https://img.shields.io/static/v1?style=flat&message=Codecademy&color=1F4056&logo=Codecademy&logoColor=FFFFFF&label=&link=https://www.codecademy.com/profiles/adrianmelic)](https://www.codecademy.com/profiles/adrianmelic)
 - 🍻🍕 Fundé y llevé durante años [AWS Zaragoza User Group Meetup](https://www.meetup.com/awszgz/) y [Zaragoza AI Meetup](https://www.meetup.com/zaragoza-ai/)
 <br>
 
 ## Cursos que imparto
 
-1. **Digitalización aplicada al sector profesional**: Un curso enfocado en proporcionar a los estudiantes una visión completa y actual de las principales tecnologías y métodos de trabajo digital, preparándolos para operar de manera efectiva en el entorno profesional moderno.
-2. **Inteligencia Artificial para el día a día**: Este curso está diseñado para enseñar a personas cómo pueden usar la IA en su vida diaria y trabajo para mejorar su eficiencia y productividad. También otro específico para docentes.
+1. **Inteligencia Artificial para el día a día**: He creado un curso para aprender IA Generativa desde cero a avanzado con +100 ejercicios prácticos tutorizados (texto, imágenes, visión, audio, vídeo...) y doy clases abiertas online. Tiene una expansión para docentes y hago ponencias en varios centros educativos para un entrenamiento personalizado de su equipo. El curso es compatible con ChatGPT Plus y Microsoft Copilot, pero creé un asistente en WhatsApp que usa las APIs de OpenAI y otros modelos para facilitar el acceso a los alumnos y alumnas. El feedback de los primeros 50 alumnos y 17 docentes está superando todas mis expectativas, también el ver cómo explota su enorme creatividad. Actualizo constantemente el curso conforme avanza la tecnología.
+2. **Digitalización aplicada al sector profesional**: Un curso enfocado en proporcionar a los estudiantes una visión completa y actual de las principales tecnologías y métodos de trabajo digital, preparándolos para operar de manera efectiva en el entorno profesional moderno.
 
 
 ## Tecnología
@@ -40,6 +41,8 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white&link=https://github.com/adrianmelic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&link=https://github.com/adrianmelic)
 
+![Google Classroom](https://img.shields.io/static/v1?style=flat&message=Google+Classroom&color=0F9D58&logo=google-classroom&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
+![WhatsApp](https://img.shields.io/static/v1?style=flat&message=WhatsApp&color=25D366&&logo=whatsapp&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Ubuntu](https://img.shields.io/static/v1?style=flat&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Google Ads](https://img.shields.io/static/v1?style=flat&message=Google+Ads&color=4285F4&logo=Google+Ads&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 

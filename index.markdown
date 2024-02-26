@@ -15,10 +15,10 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 [![X: adrianmelic](https://img.shields.io/badge/-@adrianmelic-000000?style=flat&logo=X&logoColor=white)](https://x.com/adrianmelic)
 [![Linkedin: adrianmelic](https://img.shields.io/badge/-Adrián%20Melic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianmelic/)](https://www.linkedin.com/in/adrianmelic/)
 
-- 🚀 Tengo **más de 6 años de experiencia** en **Desarrollo de Software**
+- 🚀 Tengo **+6 años de experiencia** en **Desarrollo de Software**
 - 💡 Mis intereses son **IA**, **LLMs**, **Reinforcement Learning**, **Videojegos**, **Finanzas**, **Energía Limpia** y **Exploración Espacial**
 - 🎓 Tengo un [Máster oficial en Inteligencia Artificial (UNIR)](https://www.unir.net/ingenieria/master-inteligencia-artificial/) y un [Grado en Administración y Dirección de Empresas (UNED)](https://portal.uned.es/pls/portal/url/page/UNED_MAIN/GRADOS/6502/2023)
-- 🦾 Creo e imparto 2 cursos: Uno de IA Generativa y otro de digitalización.
+- 🦾 Imparto 2 cursos que he creado: Uno de IA Generativa y otro de digitalización.
 - 🏅 Soy "Competitions Expert" en Kaggle con dos medallas en equipo [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/adrianmelic)
 - 🧠 +50 cursos en línea completados, la mayoría de ellos certificados [![Coursera](https://img.shields.io/static/v1?style=flat&message=Coursera&color=0056D2&logo=Coursera&logoColor=FFFFFF&label=&link=https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590)](https://www.coursera.org/user/9c8f6d8bf6a30e03dba32823507f2590) ![Udacity](https://img.shields.io/static/v1?style=flat&message=Udacity&color=222222&logo=Udacity&logoColor=02B3E4&label=) [![DataCamp](https://img.shields.io/static/v1?style=flat&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label=&link=https://app.datacamp.com/profile/adrianmelic)](https://app.datacamp.com/profile/adrianmelic) [![Codecademy](https://img.shields.io/static/v1?style=flat&message=Codecademy&color=1F4056&logo=Codecademy&logoColor=FFFFFF&label=&link=https://www.codecademy.com/profiles/adrianmelic)](https://www.codecademy.com/profiles/adrianmelic)
 - 🍻🍕 Fundé y llevé durante años [AWS Zaragoza User Group Meetup](https://www.meetup.com/awszgz/) y [Zaragoza AI Meetup](https://www.meetup.com/zaragoza-ai/)

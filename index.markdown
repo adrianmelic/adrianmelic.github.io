@@ -55,7 +55,6 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&&logoColor=white&link=https://github.com/adrianmelic)
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/adrianmelic)
-![spaCy](https://img.shields.io/static/v1?style=flat&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 
 **🍁 Menos usado:**
 
@@ -63,6 +62,7 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 ![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat&logo=MySQL&logoColor=white&link=https://github.com/adrianmelic)
+![spaCy](https://img.shields.io/static/v1?style=flat&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Twitter](https://img.shields.io/static/v1?style=flat&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Unity](https://img.shields.io/static/v1?style=flat&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
 ![Google Analytics](https://img.shields.io/static/v1?style=flat&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=&link=https://github.com/adrianmelic)
@@ -71,6 +71,6 @@ Mis especialidades incluyen el desarrollo de soluciones personalizadas usando la
 
 ## Contáctame
 
-Si estás interesado o interesada en mis servicios como consultor o docente, [escríbeme aquí](mailto:info@adrianmelic.com).
+Si estás interesada o interesado en mis servicios como consultor o docente, [escríbeme aquí](mailto:info@adrianmelic.com).
 
 También estoy en [X (Twitter)](https://x.com/adrianmelic) y [LinkedIn](https://linkedin.com/in/adrianmelic).
